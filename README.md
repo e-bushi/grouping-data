@@ -1,4 +1,4 @@
-# Grouping Data in Swift - Learn By Doing 
+# 🗄 Grouping Data in Swift - Learn By Doing 
 
 Welcome to the Grouping Data repository! This repository is designed as an interactive Swift tutorial to 
 facilitate understanding of essential data structures and control flow concepts. 
