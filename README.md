@@ -5,30 +5,26 @@ facilitate understanding of essential data structures and control flow concepts.
 Through practical examples and exercises, you'll gain hands-on experience working with Tuples, Arrays, Sets, 
 Dictionaries, as well as advanced control flow and functions in Swift.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Topics Covered](#topics-covered)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
-This tutorial is perfect for students who are new to Swift or are seeking to solidify their understanding of Swift's data structures and control flow. 
+This tutorial is perfect for students who are new to Swift or are seeking to solidify their understanding 
+of Swift's data structures and control flow. 
+
 The repository provides a comprehensive, practical, and interactive approach to learning.
 
 ## Prerequisites
 
-You should have Swift installed on your system. If you do not already have it, you can download it [here](https://developer.apple.com/swift/).
+You should have Swift installed on your system. If you do not already have it, 
+you can download it [here](https://developer.apple.com/swift/).
+
+If you haven't already make sure you have Visual Studio Code or Xcode to add your solutions to swift files.
 
 ## Installation
 
 Clone this repository to your local machine to get started. You can use the following command in your terminal:
 
 ```bash
-git clone https://github.com/[username]/grouping-data-in-swift.git
+git clone https://github.com/e-bushi/grouping-data.git
 ```
 
 ## Topics Covered
@@ -40,6 +36,6 @@ git clone https://github.com/[username]/grouping-data-in-swift.git
 
 ## Contributing
 
-Feel free to contribute to this repo if you feel something needs to be added. Just send up a Pull Request.
+Feel free to contribute to this repo if you feel something needs to be added. Just send up a **Pull Request**.
 
 
