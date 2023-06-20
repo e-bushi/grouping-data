@@ -28,6 +28,9 @@
     tuple.name // To access the second value "John"
     tuple.pi // To access the third value 3.14
 
+    Tuple work really well when you need to store a small amount of information about something, and
+    you need to access that information quickly.
+
     ____________________________________________________________
 
     Arrays are a type of collection that can hold multiple values but they all have to be the same type. 
@@ -59,7 +62,17 @@
 
     Then the values inside the array will be different. So array[0] will be 5, array[1] will be 4, array[2] will be 3...
 
-    You'll see why this is important as we continue on our journey. 
+    You'll see why this is important as we continue on our journey.
+
+    Arrays work really well when you need to store a lot of information about something 
+    where the order of the information matters.
+
+    You can add information quickly but you can't 
+    access it as quickly as you can with a dictionary (we'll cover in the next)
+
+    You could use an array if you needed to store a list of names for example. 
+    You could add names to the list quickly but if you wanted to find a name in the list,
+    you would have to go through each name one by one until you found the name you were looking for.
     ____________________________________________________________
 
 
@@ -67,6 +80,8 @@
     Unlike arrays, sets don't care about the order of the values inside of it. 
 
     Here are some examples of sets:
+
+    *Note: You have to explicitly tell Swift that you want to create a set by using the Set keyword.
 
     let numbers: Set = [1, 2, 3, 4, 5] // A set of Numbers
     let names: Set = ["John", "Jane", "Jack"] // A set of Strings
@@ -80,5 +95,7 @@
 
     The number you use to access the value at a certain position inside the set is called called an index.
 
-    
+    Sets work really well when you want to compare multiple sets of information to each other. 
+    For example, if you have a two sets of names and you want to see if they have any names in common.
+
 */
