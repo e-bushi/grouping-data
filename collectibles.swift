@@ -1,8 +1,8 @@
 /*
 
     In this file, we'll learn about a few 'collection' types in swift. We'll learn about
-    tuples, arrays, and sets. You can think of collection types as structures that can hold other types.
-    Each collection type holds data in a different way. They're almost like the dressers, file cabinets, treasure chests, 
+    tuples, arrays, and sets. You can think of collection types as structures that can hold groups of other types.
+    Each collection type holds data in a different way. They're almost like the dressers, file cabinets, or treasure chests, 
     etc. of the digital space.
 
     Let's get started!
@@ -11,7 +11,7 @@
 
     let tuple = (1, "John", 3.14)
 
-    This tuple can hold an Number types, Strings, and booleans and custom types (we'll cover this in the next module). We 
+    Tuples can hold an Number types, Strings, and booleans and custom types (we'll cover this in the next module). We 
     can access the values inside the tuple like this:
 
     tuple.0 // To access the first value 1
