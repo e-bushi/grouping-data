@@ -99,3 +99,26 @@
     For example, if you have a two sets of names and you want to see if they have any names in common.
 
 */
+
+
+// Create a tuple called person that holds the following information about a person: name, age, height, and weight.
+// The name should be a String, the age should be a Number, the height should be a Number, and the weight should be a Number.
+
+
+// Print out each value inside the tuple individually to the terminal
+
+
+// Create a Set called names that holds the following names: "John", "Jane", "Jack", "Jill"
+
+
+// Create another Set called otherNames that holds the following names: "Tim", "Tom", "Tina", "Jill"
+
+
+// Create another set by merging the two sets together
+
+
+// Print out the new set to the terminal
+
+
+// if you get stuck hit up the community discord or use the official documentation here: 
+// https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes#Sets
